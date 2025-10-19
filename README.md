@@ -1,6 +1,7 @@
-# 🧠 Starve.io AI Vision Prototype
+# 🧠 Game Vision AI
 
-A computer-vision prototype using **Ultralytics YOLO** to detect in-game objects in *Starve.io*, with on-screen capture and live visualization.
+A computer-vision prototype using **Ultralytics YOLO** to detect on-screen objects in real-time gameplay environments.  
+Originally developed for *Starve.io*, this project demonstrates how YOLO models can identify and track in-game entities through live screen capture.
 
 ---
 
