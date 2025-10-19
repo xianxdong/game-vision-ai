@@ -161,6 +161,17 @@ These sample images are copied from YOLO training outputs.
 
 ---
 
+## ✅ Verified Environment
+- Python 3.12.4  
+- torch 2.5.1+cu121 (CUDA available)  
+- ultralytics 8.3.217  
+- opencv-python 4.12.0  
+- numpy 2.2.6  
+- mss 10.1.0  
+- keyboard / pyautogui functional on Windows  
+
+---
+
 ## 📜 License
 
 MIT
