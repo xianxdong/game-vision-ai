@@ -1,0 +1,16 @@
+# === YOLO Artifacts ===
+dataset/
+datasets/
+runs/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+*.npz
+
+# === System / Python Cache ===
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.log

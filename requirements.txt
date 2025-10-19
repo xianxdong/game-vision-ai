@@ -1,0 +1,16 @@
+# Core CV/ML
+ultralytics>=8.2.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Screen capture & input
+mss>=9.0.1
+keyboard>=0.13.5
+pyautogui>=0.9.54
+
+# Optional: utilities for examples/scripts
+pyyaml>=6.0.1
+
+# PyTorch is installed explicitly per platform (GPU/CPU) in the README:
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121  (GPU CUDA 12.1)
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu    (CPU-only)
